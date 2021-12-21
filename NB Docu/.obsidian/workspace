@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Markdown Cheatsheet.md",
+            "file": "Pushing and Pulling Updates on Obsidian.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Cheatsheet.md",
+                "file": "Pushing and Pulling Updates on Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "cee0909b293df182",
   "lastOpenFiles": [
+    "Pushing and Pulling Updates on Obsidian.md",
     "Markdown Cheatsheet.md",
     "Test.md"
   ]
